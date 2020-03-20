@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>李宁洲</h1>
+      <p><b>生日：1998年2月17日</b></p>
+      <p><b>政治面貌：中共党员</b></p>
+      <p><b>邮箱：selnz@foxmail.com</b></p>
+      <p><b>地址：北京市海淀区科学院南路6号</b></p>
+    </td>
+    <td width="25%">
+      <img src="/liningzhou.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
-You can use the [editor on GitHub](https://github.com/756890911/756890911.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 教育经历
+2016-2020 西安电子科技大学
+2020-     中国科学院计算技术研究所
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 研究方向
+水下成像处理技术，NLOS
 
-### Markdown
+### 荣誉奖励
+第五届“慎学杯”辩论赛冠军
+2017年“星火杯”大学生课外学术科技作品竞赛一等奖
+2017、2018年国家励志奖学金
+校“优秀学生”
+2019年美国大学生数学建模竞赛Meritorious Winner奖
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/756890911/756890911.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 项目研究
